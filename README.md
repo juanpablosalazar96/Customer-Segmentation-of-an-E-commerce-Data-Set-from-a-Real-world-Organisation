@@ -3,6 +3,7 @@
 This project focuses on customer segmentation in the retail industry using clustering techniques to enhance marketing efficiency. The dataset consists of global e-commerce transactions, capturing customer behavior through features such as purchase frequency, recency, order value, and loyalty indicators. Segmenting customers based on behavioral patterns enables businesses to deliver more personalized marketing campaigns, improve customer retention, and allocate resources more effectively.
 
 **Objective**
+
 The objective of this project is to develop an unsupervised learning pipeline that segments customers into distinct groups based on behavioral and transactional data. The approach involves performing data cleaning, feature engineering, and clustering using methods such as K-Means and Hierarchical Clustering. Key metrics such as Recency, Frequency, and Monetary Value (RFM) and Customer Lifetime Value (CLV) were used to uncover customer profiles and guide targeted marketing strategies.
 
 **Key Outcomes**
